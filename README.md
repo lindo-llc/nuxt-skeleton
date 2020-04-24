@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="220"></p>
 
 
 # Installation
