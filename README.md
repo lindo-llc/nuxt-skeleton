@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="400"></p>
+<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="200"></p>
 
 
 # nuxt-skeleton
