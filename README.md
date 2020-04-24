@@ -1,5 +1,6 @@
 <center><img src="https://i.gyazo.com/ef2f876456ea4e7b7fa3678e20785b5a.png" /></center>
 
+# Nuxt.JS Skeleton for API
 
 # Installation
 
