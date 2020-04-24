@@ -27,7 +27,7 @@
     </a>
 
     <a
-      href="https://github.com/nuxt/nuxt.js"
+      href="https://github.com/DwayneWalsh/nuxt-client-skeleton"
       target="_blank"
       class="font-bold text-sm text-gray-500 hover:bg-pink-200 hover:text-pink-500 py-2 px-4 rounded"
     >
