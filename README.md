@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="220"></p>
+<center><img src="https://i.gyazo.com/ef2f876456ea4e7b7fa3678e20785b5a.png" /></center>
 
 
 # Installation
