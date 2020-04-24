@@ -1,5 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="220"></p>
+<center><img src="https://i.gyazo.com/ef2f876456ea4e7b7fa3678e20785b5a.png" /></center>
 
+# Nuxt.JS Skeleton for API
 
 # Installation
 
@@ -29,9 +30,6 @@ git clone https://github.com/DwayneWalsh/nuxt-client-skeleton.git
 > tailwindcss-transforms,
 > tinycolor2,
 > vform
-
-
-
 
 
 ## Build Setup
