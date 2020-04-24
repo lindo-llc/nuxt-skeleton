@@ -1,9 +1,35 @@
-<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/enGExfP.png" width="220"></p>
 
 
-# nuxt-skeleton
+# Installation
 
-> API Ready Client
+```
+git clone https://github.com/DwayneWalsh/nuxt-client-skeleton.git
+```
+
+# Packages
+
+> @nuxtjs/auth,
+> @nuxtjs/axios,
+> @nuxtjs/router,
+> @nuxtjs/tailwindcss,
+> @nuxtjs/toast,
+> dotenv,
+> js-cookie,
+> lodash,
+> lozad,
+> mobile-device-detect,
+> moment,
+> nuxt,
+> nuxt-i18n,
+> postcss-sass,
+> tailwindcss-bg-alpha,
+> tailwindcss-gradients,
+> tailwindcss-textshadow,
+> tailwindcss-transforms,
+> tinycolor2,
+> vform
+
 
 ## Build Setup
 
