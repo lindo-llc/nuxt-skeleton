@@ -22,7 +22,7 @@
     "lodash": "^4.17.19",
     "lozad": "^1.14.0",
     "mobile-device-detect": "^0.3.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuxt": "^2.0.0",
     "nuxt-i18n": "^6.9.2",
     "postcss-sass": "^0.4.2",
